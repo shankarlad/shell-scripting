@@ -1,0 +1,11 @@
+echo "Current Date:"
+date
+
+echo "Current time:"
+time
+
+echo "username:"
+whoami
+
+echo "current directory:"
+pwd
